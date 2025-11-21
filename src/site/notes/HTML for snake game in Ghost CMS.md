@@ -4,7 +4,7 @@
 
 Simply paste the code below into an HTML code block and swap out the three image files and the three phrases under the "START EDITING HERE" header. 
 
-[View a demo online here](https://www.newsinthegrove.com/column-1925-in-forest-grove-play-snake-learn-history/#:~:text=Play%20a%20little%20snake%20game%20below). 
+[View a demo online here](https://www.newsinthegrove.com/column-1925-in-forest-grove-play-snake-learn-history/#:~:text=It%27s%20time%20to%20play%20snake!). 
 
 ```
 <div id="snake-game-wrapper">
